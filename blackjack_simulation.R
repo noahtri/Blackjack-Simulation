@@ -1,6 +1,5 @@
 ########### Blackjack Simulation
-# functions for keeping track of wins with what hands dealt
-# count of cards tracker
+
 ########## Build Deck ########
 
 suits <- c("Diamonds", "Clubs", "Hearts", "Spades")
